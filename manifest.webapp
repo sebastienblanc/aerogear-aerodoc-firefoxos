@@ -1,0 +1,15 @@
+{
+  "version": "0.1",
+  "name": "AeroDoc FirefoxOs",
+  "description": "AeroDoc Application for Firefox OS",
+  "launch_path": "/aerogear-aerodoc-web/index.html",
+  "icons": {
+    "16": "/aerogear_icon_16px.png",
+    "48": "/aerogear_icon_48px.png",
+    "128": "/aerogear_icon_128px.png"
+  },
+  "developer": {
+    "name": "AeroGear",
+    "url": "http://aerogear.org"
+  }
+}
