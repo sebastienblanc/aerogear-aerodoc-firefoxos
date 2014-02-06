@@ -11,5 +11,13 @@
   "developer": {
     "name": "AeroGear",
     "url": "http://aerogear.org"
-  }
+  },
+"permissions": {
+    "push": {},
+    "desktop-notification": {}
+  },
+  "messages": [
+    { "push": "/" },
+    { "push-register": "/" }
+  ]
 }
